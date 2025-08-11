@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS2.ini Editor", "PS2.ini Editor.csproj", "{FF37492B-7D25-4745-8D79-BC638C1CA578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF37492B-7D25-4745-8D79-BC638C1CA578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF37492B-7D25-4745-8D79-BC638C1CA578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF37492B-7D25-4745-8D79-BC638C1CA578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF37492B-7D25-4745-8D79-BC638C1CA578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F3CD2EB-E6C0-4608-BBAA-08922F3DBF7C}
+	EndGlobalSection
+EndGlobal
