@@ -7,13 +7,22 @@ gedacht um leute mit weniger erfahrung mit PC's einfacheren Zugang zu den wichti
 
 # Bearbeitbare Einstellungen
 
-GraphicsQuality
-FSRQuality
-EffectsQuality
-TextureQuality
-ShadowQuality
-LightingQuality
-MotionBlur
-VSync
-AAQuality
-MaxFPS
+GraphicsQuality,
+
+FSRQuality,
+
+EffectsQuality,
+
+TextureQuality,
+
+ShadowQuality,
+
+LightingQuality,
+
+MotionBlur,
+
+VSync,
+
+AAQuality,
+
+MaxFPS,
